@@ -25,10 +25,11 @@ pkg update && pkg install -y python ffmpeg
    ```
  3. Ejecuta el comando pasando el nombre del archivo y la duración que quieras en minutos:
    ```bash
-   ./loop.sh mi_video.mp4 10
+   ./loop.sh mi_video.mp4 [cualquier tiempo en minutos]
    
    ```
-   *(Este comando hará que mi_video.mp4 se loopee de forma fluida hasta durar 10 minutos).*
+   *(Este comando hará que mi_video.mp4 se loopee de forma fluida hasta durar cualquier tiempo en minutos).*
+   
 ## 🇬🇧 ENG: English
 An automated and ultra-fast script for **Termux and Linux** that uses Python and FFmpeg to create seamless infinite loops of video (MP4) or audio (MP3) files.
 The best part of this method is that **it does not re-encode or re-render the file**. Instead, it clones the audio and video streams natively using FFmpeg's -c copy. A video or song that lasts for hours can be generated in just a few seconds without draining your battery!
@@ -49,7 +50,7 @@ pkg update && pkg install -y python ffmpeg
 example:
 
    ```bash
-   ./loop.sh my_video.mp4 15
+   ./loop.sh my_video.mp4 [any time in minutes]
    
    ```
    *(This command will seamlessly loop my_video.mp4 until it reaches a total duration of Any time in minutes).*
