@@ -1,43 +1,47 @@
 #!/bin/bash
-# Ejecuta el script de python pasando los archivos que tú quieras
+# AutoLoop - Loop perfecto
 
-# Detectar entorno
-if [ -d "/data/data/com.termux" ]; then
-    echo "📱 Modo Termux detectado"
-    PYTHON="python3"
-else
-    echo "💻 Modo escritorio"
-    PYTHON="python3"
-fi
+echo "🎵 AutoLoop"
+echo "================================="
 
-# Verificar archivo
 if [ -z "$1" ]; then
+    echo ""
     echo "Uso: ./loop.sh <archivo> [minutos]"
-    echo "Ejemplo: ./loop.sh video.mp4 60"
+    echo ""
+    echo "Ejemplos:"
+    echo "  ./loop.sh cancion.mp3 5"
+    echo "  ./loop.sh video.mp4 10"
+    echo "  ./loop.sh \"LATINOAMERICANO REMASTERED.mp4\" 180"
+    echo ""
     exit 1
 fi
 
-# Verificar dependencias
+if [ ! -f "$1" ]; then
+    echo "❌ Archivo no encontrado: $1"
+    exit 1
+fi
+
+# Verificar FFmpeg
 if ! command -v ffmpeg &> /dev/null; then
-    echo "❌ FFmpeg no encontrado. Instalando..."
-    if [ -d "/data/data/com.termux" ]; then
-        pkg install ffmpeg
-    else
-        sudo apt install ffmpeg -y
+    echo "📦 Instalando FFmpeg..."
+    sudo apt install ffmpeg -y || {
+        echo "❌ No se pudo instalar FFmpeg. Instálalo manualmente."
+        exit 1
+    }
+fi
+
+# Verificar librosa
+if ! python3 -c "import librosa" 2>/dev/null; then
+    echo "📦 Instalando librosa..."
+    # En Debian 12+/Termux moderno, pip bloquea instalar en el entorno
+    # global (PEP 668). --break-system-packages lo permite igualmente.
+    if ! python3 -m pip install --break-system-packages librosa numpy 2>/dev/null; then
+        echo "⚠️ Fallo con --break-system-packages, probando instalación normal..."
+        python3 -m pip install librosa numpy || {
+            echo "⚠️ No se pudo instalar librosa. El script seguirá con el método simple de loop."
+        }
     fi
 fi
 
-# Instalar dependencias Python si es necesario
-if ! $PYTHON -c "import librosa" 2>/dev/null; then
-    echo "📦 Instalando librosa para mejor detección..."
-    $PYTHON -m pip install librosa numpy --quiet
-fi
-
 # Ejecutar
-$PYTHON autoloop.py "$1" "$2"
-
-# Mantener terminal abierta en móviles
-if [ -d "/data/data/com.termux" ]; then
-    echo "Presiona Enter para salir..."
-    read
-fi
+python3 autoloop_pro.py "$@"
