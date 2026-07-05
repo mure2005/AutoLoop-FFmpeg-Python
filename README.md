@@ -53,4 +53,3 @@ example:
    
    ```
    *(This command will seamlessly loop my_video.mp4 until it reaches a total duration of Any time in minutes).*
-```
