@@ -1,11 +1,7 @@
 Perfecto, aquí tienes el README.md completo listo para copiar y pegar:
 
 ---
-
-```markdown
 # 🔁 AutoLoop FFmpeg & Python
-
----
 
 ## 🇪🇸 ESP: Español
 
