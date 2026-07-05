@@ -33,7 +33,9 @@ pkg update && pkg install -y python ffmpeg
    videos que se probaron antes de publicar la release: 
 
   [LATINOAMERICANO REMASTERED](https://youtu.be/EOQsGuYuQ-I?is=KoWRe-6NuKAUGv8W)
+  
   [Electroman Adventures](https://youtu.be/Pb6KyewC_Vg?is=74jIqElizOj632Ln)
+  
   [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
    
 ## 🇬🇧 ENG: English
@@ -63,5 +65,7 @@ example:
 
    Videos that were tested before the release:
      [LATINOAMERICANO REMASTERED](https://youtu.be/EOQsGuYuQ-I?is=KoWRe-6NuKAUGv8W)
+  
   [Electroman Adventures](https://youtu.be/Pb6KyewC_Vg?is=74jIqElizOj632Ln)
+  
   [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
