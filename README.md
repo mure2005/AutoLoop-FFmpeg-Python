@@ -5,8 +5,6 @@ Perfecto, aquí tienes el README.md completo listo para copiar y pegar:
 ```markdown
 # 🔁 AutoLoop FFmpeg & Python
 
-[Castellano](#esp-español) | [English](#eng-english)
-
 ---
 
 ## 🇪🇸 ESP: Español
