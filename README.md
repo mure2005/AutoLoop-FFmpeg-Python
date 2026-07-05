@@ -83,6 +83,7 @@ El resultado se guarda siempre en un JSON para que puedas revisar qué puntos us
 - [LATINOAMERICANO REMASTERED](https://youtu.be/EOQsGuYuQ-I?is=KoWRe-6NuKAUGv8W)
 - [Electroman Adventures](https://youtu.be/Pb6KyewC_Vg?is=74jIqElizOj632Ln)
 - [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
+- [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 
 ### 🛠️ Solución de problemas
 
@@ -194,6 +195,7 @@ The result is always saved to a JSON file so you can check which points were use
 - [LATINOAMERICANO REMASTERED](https://youtu.be/EOQsGuYuQ-I?is=KoWRe-6NuKAUGv8W)
 - [Electroman Adventures](https://youtu.be/Pb6KyewC_Vg?is=74jIqElizOj632Ln)
 - [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
+- - [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 
 ### 🛠️ Troubleshooting
 
