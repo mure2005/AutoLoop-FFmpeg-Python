@@ -86,6 +86,8 @@ El resultado se guarda siempre en un JSON para que puedas revisar qué puntos us
 - [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 - [there is no need to be upset](https://youtu.be/GJDNkVDGM_s?is=97gmPkzJIakSf3IK)
 - [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
+- [The Seven Seas](https://youtu.be/izovSb5Z7lw)
+- [Ladilla Rusa - KITT y los coches del pasado (feat. Joan Colomo & Los Ganglios)](https://youtu.be/fsxVo6WqI8w)
 
 ### 🛠️ Solución de problemas
 
@@ -200,6 +202,9 @@ The result is always saved to a JSON file so you can check which points were use
 - [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 - [there is no need to be upset](https://youtu.be/GJDNkVDGM_s?is=97gmPkzJIakSf3IK)
 - [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
+- [The Seven Seas](https://youtu.be/izovSb5Z7lw)
+- [Ladilla Rusa - KITT y los coches del pasado (feat. Joan Colomo & Los Ganglios)](https://youtu.be/fsxVo6WqI8w)
+
 
 ### 🛠️ Troubleshooting
 
