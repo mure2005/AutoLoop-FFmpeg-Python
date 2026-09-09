@@ -85,6 +85,7 @@ El resultado se guarda siempre en un JSON para que puedas revisar qué puntos us
 - [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
 - [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 - [there is no need to be upset](https://youtu.be/GJDNkVDGM_s?is=97gmPkzJIakSf3IK)
+- [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
 
 ### 🛠️ Solución de problemas
 
@@ -198,6 +199,7 @@ The result is always saved to a JSON file so you can check which points were use
 - [Jumper](https://youtu.be/ZXHO4AN_49Q?is=V8LRf2ud2SMeIuZZ)
 - [FNF - 2HOT but Bob and Ron sings it](https://youtu.be/WYFvDnBw-nk?is=tYAbDrTTe4j4Dy_R)
 - [there is no need to be upset](https://youtu.be/GJDNkVDGM_s?is=97gmPkzJIakSf3IK)
+- [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
 
 ### 🛠️ Troubleshooting
 
