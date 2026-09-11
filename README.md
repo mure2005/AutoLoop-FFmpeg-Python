@@ -120,7 +120,7 @@ Es normal en algunos vídeos: el punto de corte no cayó en un keyframe. El scri
 
 ## HOMENAJE PERSONAL: 
 
-![Jeza](https://img.shields.io/badge/Android-1998--2026-lightgrey)
+![Jeza](https://img.shields.io/badge/Jeza-1998--2026-grey)
 
 ACTUALIZACION DEL 11/09/2026: 
 
@@ -260,8 +260,10 @@ MIT License - Feel free to use, modify, and distribute.
 
 **⭐ Star this repo if you find it useful!**
 
-PERSONAL TRIBUTE:
+## PERSONAL TRIBUTE:
 
-EDIT 11/09/2026: R.I.P. Jeza, thank you for being the person who puts up with me the most in the Among Us community. I will always remember you. I found out from your partner that you're gone. I wish I could have told you that I thought of you, a mother for me 😭
+![Jeza](https://img.shields.io/badge/Jeza-1998--2026-grey)
 
-RIP JEZA 1998-2026
+**EDIT 11/09/2026: R.I.P. Jeza, thank you for being the person who puts up with me the most in the Among Us community. I will always remember you. I found out from your partner that you're gone. I wish I could have told you that I thought of you, a mother for me 😭**
+
+**RIP JEZA 1998-2026**
