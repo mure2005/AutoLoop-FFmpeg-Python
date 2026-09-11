@@ -120,7 +120,11 @@ Es normal en algunos vídeos: el punto de corte no cayó en un keyframe. El scri
 
 HOMENAJE PERSONAL: 
 
-ACTUALIZACION DEL 11/09/2026: DEP Jeza, gracias por ser la persona que más me aguantaba en la comunidad de Among Us. Siempre te recordaré. Me enteré por tu pareja de que ya no estás. Ojalá hubiera podido decirte que pensaba en ti; fuiste como una madre para mí 😭 DEP JEZA 1998-2026
+ACTUALIZACION DEL 11/09/2026: 
+
+DEP Jeza, gracias por ser la persona que más me aguantaba en la comunidad de Among Us. Siempre te recordaré. Me enteré por tu pareja de que ya no estás. Ojalá hubiera podido decirte que pensaba en ti; fuiste como una madre para mí 😭 
+
+DEP JEZA 1998-2026
 
 ---
 
