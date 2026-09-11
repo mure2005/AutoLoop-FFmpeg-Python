@@ -118,13 +118,14 @@ Es normal en algunos vídeos: el punto de corte no cayó en un keyframe. El scri
 - La detección de ritmo con librosa puede tardar bastante en archivos muy largos (varios minutos de análisis en audios/vídeos de más de una hora).
 - No hay barra de progreso durante el análisis ni la recodificación — el script puede parecer "colgado" en archivos grandes, pero está trabajando.
 
-HOMENAJE PERSONAL: 
+## HOMENAJE PERSONAL: 
+
+![Jeza](https://img.shields.io/badge/Android-1998--2026-lightgrey)
 
 ACTUALIZACION DEL 11/09/2026: 
 
-DEP Jeza, gracias por ser la persona que más me aguantaba en la comunidad de Among Us. Siempre te recordaré. Me enteré por tu pareja de que ya no estás. Ojalá hubiera podido decirte que pensaba en ti; fuiste como una madre para mí 😭 
-
-DEP JEZA 1998-2026
+**DEP Jeza, gracias por ser la persona que más me aguantaba en la comunidad de Among Us. Siempre te recordaré. Me enteré por tu pareja de que ya no estás. Ojalá hubiera podido decirte que pensaba en ti; fuiste como una madre para mí 😭** 
+**DEP JEZA 1998-2026**
 
 ---
 
