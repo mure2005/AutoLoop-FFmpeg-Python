@@ -88,6 +88,8 @@ El resultado se guarda siempre en un JSON para que puedas revisar qué puntos us
 - [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
 - [The Seven Seas](https://youtu.be/izovSb5Z7lw)
 - [Ladilla Rusa - KITT y los coches del pasado (feat. Joan Colomo & Los Ganglios)](https://youtu.be/fsxVo6WqI8w)
+- [ElyOtto - SugarCrash! (Official video)](https://youtu.be/6uaq8GJJxAQ)
+- [Lobby Music (Kahoot Original Soundtrack)](https://youtu.be/yjwJIjNuniQ)
 
 ### 🛠️ Solución de problemas
 
@@ -213,6 +215,8 @@ The result is always saved to a JSON file so you can check which points were use
 - [La La Love You - El fin del mundo feat. Olaya Axolotes Mexicanos](https://youtu.be/6cF6b6pLijE)
 - [The Seven Seas](https://youtu.be/izovSb5Z7lw)
 - [Ladilla Rusa - KITT y los coches del pasado (feat. Joan Colomo & Los Ganglios)](https://youtu.be/fsxVo6WqI8w)
+- [ElyOtto - SugarCrash! (Official video)](https://youtu.be/6uaq8GJJxAQ)
+- [Lobby Music (Kahoot Original Soundtrack)](https://youtu.be/yjwJIjNuniQ)
 
 
 ### 🛠️ Troubleshooting
