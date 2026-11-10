@@ -95,6 +95,7 @@ El resultado se guarda siempre en un JSON para que puedas revisar qué puntos us
 - [Tono de llamada movistar oficial](https://www.youtube.com/watch?v=WVHhayImOOY)
 - [Joseph Fonseca - El Caballito De Palo (Official Video)](https://youtu.be/y5-y-xOIdGQ?si=8_zkvQ0llhUflGT7)
 - [La Chona - Los Tucanes De Tijuana (Clásicos de Los Tucanes)](https://youtu.be/4gA5iaZ11lU?si=vi3iQ4gXvMZ9sOXx)
+- [Pumpky - La Calabaza - Pumpky Edit (Official Video)](https://youtu.be/LzrKKo9ToYk)
 
 ### 🛠️ Solución de problemas
 
@@ -227,7 +228,7 @@ The result is always saved to a JSON file so you can check which points were use
 - [Tono de llamada movistar oficial](https://www.youtube.com/watch?v=WVHhayImOOY)
 - [Joseph Fonseca - El Caballito De Palo (Official Video)](https://youtu.be/y5-y-xOIdGQ?si=8_zkvQ0llhUflGT7)
 - [La Chona - Los Tucanes De Tijuana (Clásicos de Los Tucanes)](https://youtu.be/4gA5iaZ11lU?si=vi3iQ4gXvMZ9sOXx)
-
+- [Pumpky - La Calabaza - Pumpky Edit (Official Video)](https://youtu.be/LzrKKo9ToYk)
 
 ### 🛠️ Troubleshooting
 
